@@ -23,13 +23,13 @@
 **Understanding Key Charts to visualize**
 * We would like to visualize various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts:
 
-**Daily Trend for Total Orders:** Construct a bar chart depicting the daily trend of total orders over a specified timeframe. This visualization will enable us to discern patterns or fluctuations in order volumes on a day-to-day basis.
-**Hourly Trend for Total Orders:** Develop a line chart illustrating the hourly trend of total orders throughout the day. This visualization will assist us in identifying peak hours and periods of heightened order activity.
-**Percentage of Sales by Pizza Category:** Generate a pie chart displaying the distribution of sales across various pizza categories. This visualization will offer insights into the popularity of different pizza categories and their respective contributions to overall sales.
-**Percentage of Sales by Pizza Size:** Generate a pie chart illustrating the proportion of sales attributed to different pizza sizes. This chart will help us understand customer preferences for pizza sizes and their impact on overall sales.
-**Total Pizzas Sold by Pizza Category:** Create a funnel chart representing the total number of pizzas sold for each pizza category. This visualization will allow us to compare the sales performance across various pizza categories.
-**Top 5 Best Sellers by Total Pizzas Sold:** Develop a bar chart highlighting the top 5 best-selling pizzas based on the total number of pizzas sold. This chart will help us identify the most popular pizza options.
-**Bottom 5 Worst Sellers by Total Pizzas Sold:** Construct a bar chart showcasing the bottom 5 worst-selling pizzas based on the total number of pizzas sold. This chart will enable us to identify underperforming or less popular pizza options.
+* **Daily Trend for Total Orders:** Construct a bar chart depicting the daily trend of total orders over a specified timeframe. This visualization will enable us to discern patterns or fluctuations in order volumes on a day-to-day basis.
+* **Hourly Trend for Total Orders:** Develop a line chart illustrating the hourly trend of total orders throughout the day. This visualization will assist us in identifying peak hours and periods of heightened order activity.
+* **Percentage of Sales by Pizza Category:** Generate a pie chart displaying the distribution of sales across various pizza categories. This visualization will offer insights into the popularity of different pizza categories and their respective contributions to overall sales.
+* **Percentage of Sales by Pizza Size:** Generate a pie chart illustrating the proportion of sales attributed to different pizza sizes. This chart will help us understand customer preferences for pizza sizes and their impact on overall sales.
+* **Total Pizzas Sold by Pizza Category:** Create a funnel chart representing the total number of pizzas sold for each pizza category. This visualization will allow us to compare the sales performance across various pizza categories.
+* **Top 5 Best Sellers by Total Pizzas Sold:** Develop a bar chart highlighting the top 5 best-selling pizzas based on the total number of pizzas sold. This chart will help us identify the most popular pizza options.
+* **Bottom 5 Worst Sellers by Total Pizzas Sold:** Construct a bar chart showcasing the bottom 5 worst-selling pizzas based on the total number of pizzas sold. This chart will enable us to identify underperforming or less popular pizza options.
 
 **Scope: This presentation will cover the following aspects:**
 **Sales Trends Analysis:** 
