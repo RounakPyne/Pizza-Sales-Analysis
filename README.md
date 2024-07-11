@@ -53,13 +53,13 @@
 
 **Final Findings and summary:**
 
-**Busiest Days and times:**
+* **Busiest Days and times:**
 * Days: Orders placed are the maximum on weekends. Friday and Saturday as observed.
 * Times: Maximum Orders have been placed from 12 to 1 Pm and 4 to 8 PM as observed.
-**Category and Size:**
+* **Category and Size:**
 * Category: Classic Category contributes to maximum sales & total order followed by Supreme.
 * Size: Large Size Pizza's are the highest sellers.
-**Best and Worst Sellers:**
+* **Best and Worst Sellers:**
 * Best Seller: Classic and  Chicken pizza are best sellers and revenue generators
 * Worst Sellers: The Brie Carre is the worst selling pizza and generates the least revenue
 
