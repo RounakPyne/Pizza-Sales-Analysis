@@ -14,11 +14,11 @@
 **Business Questions:**
 * To derive meaningful insights from our pizza sales data, it is imperative to scrutinize key performance indicators. Specifically, we aim to compute the following metrics:
 
-**Total Revenue:** The cumulative amount generated from all pizza orders.
-**Average Order Value:** The mean expenditure per order, derived by dividing the total revenue by the number of orders.
-**Total Pizzas Sold:** The aggregate count of all pizzas sold.
-**Total Orders:** The overall number of orders received.
-**Average Pizzas Per Order:** The mean number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders.
+* **Total Revenue:** The cumulative amount generated from all pizza orders.
+* **Average Order Value:** The mean expenditure per order, derived by dividing the total revenue by the number of orders.
+* **Total Pizzas Sold:** The aggregate count of all pizzas sold.
+* **Total Orders:** The overall number of orders received.
+* **Average Pizzas Per Order:** The mean number of pizzas sold per order, calculated by dividing the total number of pizzas sold by the total number of orders.
 
 **Understanding Key Charts to visualize**
 * We would like to visualize various aspects of our pizza sales data to gain insights and understand key trends. We have identified the following requirements for creating charts:
