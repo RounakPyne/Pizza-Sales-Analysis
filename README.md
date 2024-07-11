@@ -1,4 +1,4 @@
-![image](https://github.com/RounakPyne/Pizza-Sales-Analysis/assets/100945704/aca7a7df-8109-4ecd-afcb-44711486ba48)![image](https://github.com/RounakPyne/Pizza-Sales-Analysis/assets/100945704/c3f13dd8-cd56-446c-82e0-84bafa79dba0)# Understanding Sales Trends for "Perfect Slice Pizza"
+# Understanding Sales Trends for "Perfect Slice Pizza"
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 * Welcome to the Sales Analysis Presentation for Perfect Slice Pizza!
 
@@ -31,6 +31,44 @@
 **Top 5 Best Sellers by Total Pizzas Sold:** Develop a bar chart highlighting the top 5 best-selling pizzas based on the total number of pizzas sold. This chart will help us identify the most popular pizza options.
 **Bottom 5 Worst Sellers by Total Pizzas Sold:** Construct a bar chart showcasing the bottom 5 worst-selling pizzas based on the total number of pizzas sold. This chart will enable us to identify underperforming or less popular pizza options.
 
+**Scope: This presentation will cover the following aspects:**
+**Sales Trends Analysis:** 
+* Understanding overall sales performance over time
+* Identifying seasonal patterns and peak sales periods
+
+**High-Selling Product Identification:** 
+* Analyzing product sales to highlight top sellers
+* Understanding customer preferences and product popularity
+
+**Sales Dashboard Development:** 
+* Designing a user-friendly sales dashboard
+* Enabling real-time tracking and visualization of key sales metrics
+
+**Software Used:** 
+* MS Office / Excel : Version 2021
+* MS Office / PowerPoint : Version 2021
+* MySQL Workbench: Version 8.0
+
+![image](https://github.com/RounakPyne/Pizza-Sales-Analysis/assets/100945704/8f2f8c69-2fad-4426-a0e0-958ccb54612f)
+
+**Final Findings and summary:**
+
+**Busiest Days and times:**
+* Days: Orders placed are the maximum on weekends. Friday and Saturday as observed.
+* Times: Maximum Orders have been placed from 12 to 1 Pm and 4 to 8 PM as observed.
+**Category and Size:**
+* Category: Classic Category contributes to maximum sales & total order followed by Supreme.
+* Size: Large Size Pizza's are the highest sellers.
+**Best and Worst Sellers:**
+* Best Seller: Classic and  Chicken pizza are best sellers and revenue generators
+* Worst Sellers: The Brie Carre is the worst selling pizza and generates the least revenue
+
+**By harnessing the power of data, Perfect Slice Pizza can:**
+
+* Optimize inventory and supply chain management
+* Tailor marketing strategies to boost sales
+* Enhance customer satisfaction by focusing on popular products
+* Make informed decisions to drive business growth
 
 
 
